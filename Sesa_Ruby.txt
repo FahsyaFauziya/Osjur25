@@ -1,0 +1,42 @@
+Nama: Dinwisesa Yuliangsuro
+Gugus: Ruby
+
+Figma adalah aplikasi desain UI/UX berbasis vektor yang dapat dijalankan di browser (peramban)
+atau melalui aplikasi desktop.
+
+Keunggulannya meliputi:
+1. Berbasis Cloud: Semua pekerjaan desain tersimpan otomatis dan dapat diakses dari mana saja
+selama ada koneksi internet.
+2. Kolaborasi Real-time: Memungkinkan banyak orang bekerja bersama dalam satu file yang sama,
+dengan perubahan yang langsung terlihat oleh semua anggota tim.
+3. Fitur Prototyping: Memungkinkan pembuatan tampilan antarmuka/desain yang interaktif.
+
+Prinsip Dasar Desain
+Prinsip Dasar UI Design: C.R.A.P.
+• Contrast (Kontras): Mengorganisir desain, membangun hierarki, menekankan titik fokus, dan
+menambah minat visual.
+• Repetition (Pengulangan): Menciptakan konsistensi, meningkatkan kemampuan belajar pengguna
+(learnability), dan mengurangi kebingungan.
+• Alignment (Kesejajaran): Mengorganisir dan mengelompokkan elemen, menciptakan ritme, dan
+membawa keteraturan pada desain.
+• Proximity (Kedekatan): Membuat elemen terlihat saling berhubungan, membawa pemahaman, dan
+makna.
+
+Prinsip Desain Lainnya
+• Emphasis (Penekanan): Menarik perhatian ke elemen paling penting, membuatnya menonjol.
+• Typography (Tipografi): Membentuk keterbacaan (readability), menentukan tone, dan
+meningkatkan desain secara keseluruhan.
+• Color (Warna): Menambah mood, menciptakan kontras, dan membantu mengkomunikasikan makna.
+• White Space (Ruang Putih): Adalah ruang bernapas dalam desain, meningkatkan keterbacaan,
+meminimalkan kekacauan, dan menambah kesan canggih (sophistication).
+
+Prinsip Dasar UX Design: Hukum UX (Laws of UX)
+• Hick's Law: Waktu yang dibutuhkan untuk membuat keputusan meningkat seiring bertambahnya
+jumlah dan kompleksitas pilihan.
+• Fitts's Law: Waktu untuk mencapai target adalah fungsi dari jarak ke target dan ukuran
+target.
+• Miller's Law: Rata-rata orang hanya dapat mengingat 7 (plus minus 2) item dalam memori
+kerja mereka.
+• Jakob's Law: Pengguna menghabiskan sebagian besar waktu mereka di situs lain. Artinya,
+pengguna lebih suka situs Anda bekerja dengan cara yang sama seperti semua situs lain yang
+sudah mereka kenal.
