@@ -1,0 +1,10 @@
+Nama: Nabila Fahsya Fauziyah 
+Gugus: Ruby
+Figma adalah aplikasi desain UI/UX berbasis vektor yang bisa diakses lewat browser maupun aplikasi desktop.
+Berbasis cloud, sehingga semua pekerjaan otomatis tersimpan dan dapat diakses dari mana saja selama ada internet.
+Memiliki keunggulan kolaborasi real-time, banyak orang bisa bekerja dalam file yang sama dan perubahan langsung terlihat.
+Menyediakan fitur prototyping untuk membuat desain antarmuka menjadi interaktif.
+Posisi Figma di Industri Desain & Teknologi:
+Figma kini menjadi salah satu tools paling populer untuk desain UI/UX, terutama di perusahaan teknologi, startup, dan tim produk digital.
+Sangat cocok untuk tim remote atau proyek yang melibatkan banyak orang.
+Tidak hanya digunakan desainer, tetapi juga developer, product manager, hingga stakeholder non-desain.
